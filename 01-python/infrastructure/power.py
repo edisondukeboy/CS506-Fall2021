@@ -1,5 +1,5 @@
 def draw_power_plant():
-    print("Power plant is SnoopDogggggggggg")
+    print("Power plant is SnoopDogggggggggg!!!!!")
     print('''
                 .---- .
                .       、
